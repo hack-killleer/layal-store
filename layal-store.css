@@ -1,8 +1,5 @@
 /* Add custom CSS styles below */ 
-.bg-gray-50 {
-    
-    background-color: white;
-}
+ 
 [dir=rtl] salla-slider.photos-slider .swiper {
     padding-right: 0rem !important;
 }
